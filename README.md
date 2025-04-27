@@ -68,6 +68,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add new users
 <br />
 
+![image](https://github.com/user-attachments/assets/dc86396e-129f-499f-9fed-2100567540f4)
+### Step 6: Service Level Agreement
+- Access the admin panel
+- Navigate to manage tab
+- Add new SLAs: Sev-A, Sev-B, Sev-C
+- Sev-A being the most urgent and Sev-C being the least
+
+  
 
 
 
