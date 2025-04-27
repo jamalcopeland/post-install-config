@@ -74,7 +74,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Navigate to manage tab
 - Add new SLAs: Sev-A, Sev-B, Sev-C
 - Sev-A being the most urgent and Sev-C being the least
+<br />
 
+![image](https://github.com/user-attachments/assets/03d8a88a-3d58-41ff-9361-31ce94a4040d)
+### Step 7: Configure Help Topics
+- Navigate to manage tab then help topics tab
+- Create new help topics
+- Business Critical Outage, Password Reset, Other, Personal Computer Issues
   
 
 
